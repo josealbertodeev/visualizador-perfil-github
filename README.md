@@ -2,8 +2,14 @@
 
 Um simples visualizador de perfis do GitHub construído com HTML, CSS e JavaScript.
 
-![Animação](https://github.com/user-attachments/assets/f717ad89-fc5d-4e87-9dcd-09bff86247e7)
+## Desktop 💻 
+![Animação](https://github.com/user-attachments/assets/6d9e792a-4edb-46e9-b214-2416ed75cf63)
 
+## Mobile 📱
+![Animação mobile](https://github.com/user-attachments/assets/3f4fd2f4-817f-47e6-9e01-906cee725153)
+
+
+ 
 ## 📖 Sobre
 
 Esta aplicação permite que você insira um nome de usuário do GitHub e veja as informações do perfil, incluindo avatar, nome, biografia e uma lista dos 10 repositórios mais recentes.
